@@ -3,8 +3,7 @@ layout: home
 list_title: Articles
 published: true
 ---
-# Plusieurs idées originales et simple de recettes détox
-
+# Plusieurs idées originales et simples de recettes détox
 
 Besoin de nettoyer votre corps après les fêtes ou les vacances ?
 
