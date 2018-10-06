@@ -17,7 +17,8 @@ _Inralique_
 ## Souu!
 
 Mon image:
-[220px-TOP_Trench_Album_Cover.jpg]({{site.baseurl}}/assets/pictures/220px-TOP_Trench_Album_Cover.jpg)
+
+![220px-TOP_Trench_Album_Cover.jpg]({{site.baseurl}}/assets/pictures/220px-TOP_Trench_Album_Cover.jpg)
 
 
 
