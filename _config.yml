@@ -42,7 +42,7 @@ plugins:
 prose:
   siteurl: https://duck-shoes.fr
   media: assets/pictures/
-  rooturl: '_posts'
+#  rooturl: '_posts'
   metadata:
     _posts:
       - name: "layout"
