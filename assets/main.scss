@@ -2,11 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Mali');
 
 $accent-color: #108441;
 
 body, html {
  background-color: $accent-color;
+ font-family: 'Mali', cursive;
 }
 
 a, a:visited {
@@ -32,4 +34,14 @@ a, a:visited {
 
 .site-nav {
   line-height: 105px;
+}
+
+.site-header {
+    border-bottom: 0;
+    box-shadow: 0px 3px 6px 0px #656565;
+}
+
+.site-footer {
+    border-top: 0;
+    box-shadow: 0px -3px 6px 0px #656565;
 }
