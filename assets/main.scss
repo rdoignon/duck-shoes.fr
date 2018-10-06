@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$accent-color: #108441;
+
+body, html {
+ background-color: $accent-color;
+}
+
+a, a:visited {
+ color: $accent-color;
+}
+
+.page-content {
+ background-color: #fff;
+}
+
+.site-nav .page-link, .site-title, .site-title:visited, .footer-heading {
+  color: #fff;
+}
+
+.footer-col-wrapper {
+  color:#cfcfcf;
+}
+
+#logo {
+  height: 100px;
+  padding: 5px 20px;
+}
+
+.site-nav {
+  line-height: 105px;
+}
