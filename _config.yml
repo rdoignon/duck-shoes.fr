@@ -38,3 +38,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+prose:
+  siteurl: https://duck-shoes.fr
+  media: assets/pictures/
+  rooturl: '_posts'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "date"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
