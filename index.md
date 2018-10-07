@@ -3,7 +3,7 @@ layout: home
 list_title: Articles
 published: true
 ---
-Besoin de nettoyer votre corps après les fêtes ou les vacances ?
+Besoin de nettoyer votre corps après les fêtes ou les vacanses ?
 
 Voici quelques recettes à consommer sans modération, qui vous permettront de repartir du bon pied et de retrouver de l’énergie. Donnez-vous un coup de boost tout en réchauffant vos papilles.
 
