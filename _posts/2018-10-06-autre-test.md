@@ -4,6 +4,6 @@ layout: post
 published: true
 title: Un autre test
 ---
-## Le "Cabeza"
+## Plusieurs idées originales et simples de recettes détox
 
 
