@@ -5,4 +5,3 @@ permalink: /a-propos/
 published: true
 ---
 
-**2018**
