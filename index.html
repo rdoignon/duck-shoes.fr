@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Duck Shoes - Rêvez</title>
+  <title>Duck Shoes - Dream</title>
   <style>
 	html {
 	background-color: #283955;
@@ -15,37 +15,53 @@
 	}
 	header {
 	 height: 100vh;
-	 background-image: url("./wallpaper.jpg");
+	 background-image: url("./assets/wallpaper.jpg");
+	 background-position: center;
 	 /* flex-box thing */
 	 display: flex;
 	 flex-direction: column;
 	 align-items: center;
 	 justify-content: center; background-size: cover; 
-	 margin-bottom: 30px;
+	}
+	#part1 {
+		height: 200px;
+	}
+	#part2 {
+		height: 80px;
+		background-color: #26344d;
 	}
 	h1 {
 		text-align: center;
 		color: white;
-		margin: 120px 0;
+		line-height: 200px;
+	}
+	#part2 h1 {
+		display: inline;
+		text-align: center;
+		padding: 20px;
+		line-height: 80px;
+		font-size: 1.5em;
 	}
 	footer {
 	 height: 70px;
 	 background-color: #1e2c42;
 	}
 	#logo {
-		height: 60px;
+		height: 50px;
 		float: right;
-		padding: 5px;
+		padding: 10px;
 	}
   </style>
-  <script src="script.js"></script>
 </head>
 <body>
   <header>
   </header>
-  <h1>Rêvez</h1>
-  <footer>
-	<img id="logo" src="./logo-duck.gif">
-  </footer>
+  <div id="part1">
+	<h1>dream</h1>
+  </div>
+  <div id="part2">
+	<h1>Turn off your screen</h1>
+	<img id="logo" src="./assets/logo-duck.gif">
+  </div>
 </body>
 </html>
